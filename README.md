@@ -1,5 +1,7 @@
 ## About the Project
 This is the task of Mahir Jain,Y23,undergrad at IITK for the ps given by Pocket Writer.
+A special note: The project stores images as blob urls so do not change tabs as the blob url expires after sometime.
+Link to a sample run of the project :- [https://drive.google.com/file/d/1wxDoZ6oXrxkVjLe40GVQyLPYsWJXiCcn/view?usp=sharing] Google Drive
 
 ## Available Scripts
 In the project directory, you can run:
